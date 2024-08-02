@@ -12,3 +12,6 @@ print(l)
 
 Liss = [i*i for i in l]
 print(Liss)
+
+print(4+4)
+

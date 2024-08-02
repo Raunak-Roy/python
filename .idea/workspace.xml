@@ -4,32 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be00e831-fcfb-47f1-903f-a49065143fa9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Raj9.py" afterDir="false" />
+    <list default="true" id="be00e831-fcfb-47f1-903f-a49065143fa9" name="Changes" comment="Python question from GFG">
+      <change afterPath="$PROJECT_DIR$/Raj21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raj22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raj23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raj24.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raj25.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Raj26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Raj.20.py" beforeDir="false" afterPath="$PROJECT_DIR$/Raj.20.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +42,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Raj.20.executor": "Run",
     "Python.Raj1.executor": "Run",
     "Python.Raj10.executor": "Run",
     "Python.Raj11.executor": "Run",
@@ -70,6 +54,12 @@
     "Python.Raj18.executor": "Run",
     "Python.Raj19.executor": "Run",
     "Python.Raj2.executor": "Run",
+    "Python.Raj21.executor": "Run",
+    "Python.Raj22.executor": "Run",
+    "Python.Raj23.executor": "Run",
+    "Python.Raj24.executor": "Run",
+    "Python.Raj25.executor": "Run",
+    "Python.Raj26.executor": "Run",
     "Python.Raj3.executor": "Run",
     "Python.Raj4.executor": "Run",
     "Python.Raj5.executor": "Run",
@@ -79,7 +69,8 @@
     "Python.Raj9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "reference.idesettings.quicklists"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -98,6 +89,35 @@
       <option name="presentableId" value="Default" />
       <updated>1720831867418</updated>
     </task>
+    <task id="LOCAL-00001" summary="Python question from GFG">
+      <option name="closed" value="true" />
+      <created>1722564257691</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722564257692</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Python question from GFG">
+      <option name="closed" value="true" />
+      <created>1722564272136</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722564272136</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Python question from GFG">
+      <option name="closed" value="true" />
+      <created>1722564301730</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1722564301730</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Python question from GFG" />
+    <option name="LAST_COMMIT_MESSAGE" value="Python question from GFG" />
   </component>
 </project>
